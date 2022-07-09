@@ -12,7 +12,7 @@
 </p>
 <p align="center">
   <strong>
-    Static. That. Scales.
+    Static. That. Scale.
   </strong>
 </p>
 <p align="center">
