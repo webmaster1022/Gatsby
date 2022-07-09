@@ -7,14 +7,7 @@
   Gatsby v4
 </h1>
 
-<p align="center">
-  ⚛️ 📄 🚀
-</p>
-<p align="center">
-  <strong>
-    Static. That. Scales.
-  </strong>
-</p>
+
 <p align="center">
   Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps. </br> It combines the control and scalability of dynamically rendered sites with the speed of static-site generation, creating a whole new web of possibilities.
 </p>
